@@ -31,7 +31,8 @@
   </style>
 </head>
 <body>
-  <h1>Site Under Maintenance</h1>
+  <img src="/images/Logo.png" alt="" style="width: 300px;height: 150px;object-fit: contain">
+  <h5> Under Maintenance</h5>
   <div class="loader"></div>
   <p>We apologize for the inconvenience. Our site is currently undergoing maintenance and will be back online shortly.</p>
 </body>
