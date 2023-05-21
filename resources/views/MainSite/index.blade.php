@@ -27,6 +27,24 @@
     @include('MainSite.Layouts.nav')
     @yield('content')
     @include('MainSite.Layouts.footer')
+    
+    {{-- welcome modal --}}
+    <div class="modal fade d-flex align-items-center" id="myModal" tabindex="-1" role="dialog">
+        <div class="modal-dialog" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title text-center">Welcome to getpet.in</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+              <h4>GetPet.in is under construction so please bear with us!</h4>
+              <p>For custom orders or queries, please email us <a href="mailto:info@getpet.in">info@getpet.in</a></p>
+            </div>
+          </div>
+        </div>
+      </div>
     <!-- Js Plugins -->
     <script src="{{ asset('Theme/js/jquery-3.3.1.min.js') }}"></script>
     <script src="{{ asset('Theme/js/bootstrap.min.js') }}"></script>
@@ -36,6 +54,7 @@
     <script src="{{ asset('Theme/js/mixitup.min.js') }}"></script>
     <script src="{{ asset('Theme/js/owl.carousel.min.js') }}"></script>
     <script src="{{ asset('Theme/js/main.js') }}"></script>
+    <script src="{{ asset('Custom/main.js') }}"></script>
 </body>
 
 </html>

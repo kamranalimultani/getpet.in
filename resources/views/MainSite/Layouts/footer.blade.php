@@ -8,9 +8,9 @@
                         <a href="./index.html"><img src="Theme/img/logo.png" alt=""></a>
                     </div>
                     <ul>
-                        <li>Address: 60-49 Road 11378 New York</li>
-                        <li>Phone: +65 11.188.888</li>
-                        <li>Email: hello@colorlib.com</li>
+                        <li>Address: Shashtri Park Metro Statio, New Delhi</li>
+                        <li>Phone: +91-8273783249</li>
+                        <li>Email: info@getpet.in</li>
                     </ul>
                 </div>
             </div>
@@ -19,18 +19,18 @@
                     <h6>Useful Links</h6>
                     <ul>
                         <li><a href="#">About Us</a></li>
-                        <li><a href="#">About Our Shop</a></li>
-                        <li><a href="#">Secure Shopping</a></li>
                         <li><a href="#">Delivery infomation</a></li>
                         <li><a href="#">Privacy Policy</a></li>
+                        <li><a href="#">Secure Shopping</a></li>
                         <li><a href="#">Our Sitemap</a></li>
+                        <li><a href="#">FAQ's</a></li>
                     </ul>
                     <ul>
                         <li><a href="#">Who We Are</a></li>
-                        <li><a href="#">Our Services</a></li>
-                        <li><a href="#">Projects</a></li>
-                        <li><a href="#">Contact</a></li>
-                        <li><a href="#">Innovation</a></li>
+                        <li><a href="#">Vets</a></li>
+                        <li><a href="#">Register as vet</a></li>
+                        <li><a href="#">List for adoption</a></li>
+                        <li><a href="#">Adopt a pet</a></li>
                         <li><a href="#">Testimonials</a></li>
                     </ul>
                 </div>
@@ -61,9 +61,8 @@
                             Copyright &copy;
                             <script>
                                 document.write(new Date().getFullYear());
-                            </script> All rights reserved | This template is made with <i
-                                class="fa fa-heart" aria-hidden="true"></i> by <a href="https://colorlib.com"
-                                target="_blank">Colorlib</a>
+                            </script> All rights reserved | Initiated by <a href="https://colorlib.com"
+                                target="_blank">GetPet.in</a>
                             <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
                         </p>
                     </div>
