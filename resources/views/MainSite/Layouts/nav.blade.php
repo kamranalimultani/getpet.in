@@ -111,17 +111,16 @@
                 <nav class="header__menu">
                     <ul>
                         <li class="active"><a href="./index.html">Home</a></li>
-                        <li><a href="./shop-grid.html">Shop</a></li>
-                        <li><a href="#">Pages</a>
+                        <li><a href="./shop-grid.html">Adoption</a></li>
+                        <li><a href="./blog.html">Blogs</a></li>
+                        <li><a href="#">More</a>
                             <ul class="header__menu__dropdown">
-                                <li><a href="./shop-details.html">Shop Details</a></li>
-                                <li><a href="./shoping-cart.html">Shoping Cart</a></li>
-                                <li><a href="./checkout.html">Check Out</a></li>
+                                <li><a href="./shop-details.html">Vets</a></li>
+                                <li><a href="./shoping-cart.html">Pet Care for time</a></li>
+                                <li><a href="./checkout.html">Ask To sell</a></li>
                                 <li><a href="./blog-details.html">Blog Details</a></li>
                             </ul>
                         </li>
-                        <li><a href="./blog.html">Blog</a></li>
-                        <li><a href="./contact.html">Contact</a></li>
                     </ul>
                 </nav>
             </div>
@@ -131,7 +130,6 @@
                         <li><a href="#"><i class="fa fa-heart"></i> <span>1</span></a></li>
                         <li><a href="#"><i class="fa fa-shopping-bag"></i> <span>3</span></a></li>
                     </ul>
-                    <div class="header__cart__price">item: <span>$150.00</span></div>
                 </div>
             </div>
         </div>
